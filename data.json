@@ -1,0 +1,27 @@
+[
+    {
+        "userId":"USR1",
+        "name":"sibin v m",
+        "password":"sibin@123",
+        "email":"s@gmail.com",
+        "phone":"9495863355",
+        "joiningDate":"April 21, 2022"
+    },
+    {
+        "userId":"USR2",
+        "name":"shamnas",
+        "password":"shamns@123",
+        "email":"shamnas@gmail.com",
+        "phone":"8921188696",
+        "joiningDate":"April 21, 2022"
+    },
+    {
+            "userId":"USR3",
+            "name":"aswanth",
+            "password":"aswanthcp",
+            "email":"cpaswanth@gmail.com",
+            "phone":"6235188696",
+            "joiningDate":"April 21, 2022"
+        },
+        {
+            "userId":"USR4","name":"sibin","password":"sibinsibin","email":"sibin@gmail.com","phone":"8921188696","joiningDate":"April 27, 2022"}]
